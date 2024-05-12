@@ -1,0 +1,14 @@
+# Target labels
+ sdl_mixer-2.28.5-populate
+# Source files and their labels
+/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/CMakeFiles/sdl_mixer-2.28.5-populate
+/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/CMakeFiles/sdl_mixer-2.28.5-populate.rule
+/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/CMakeFiles/sdl_mixer-2.28.5-populate-complete.rule
+/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-build.rule
+/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-configure.rule
+/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-download.rule
+/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-install.rule
+/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-mkdir.rule
+/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-patch.rule
+/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-test.rule
+/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-update.rule

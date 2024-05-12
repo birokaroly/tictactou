@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/CMakeFiles/sdl_mixer-2.28.5-populate"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/CMakeFiles/sdl_mixer-2.28.5-populate.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/CMakeFiles/sdl_mixer-2.28.5-populate-complete.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-build.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-configure.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-download.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-install.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-patch.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-test.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sdl_mixer-2.28.5-populate"
+		],
+		"name" : "sdl_mixer-2.28.5-populate"
+	}
+}

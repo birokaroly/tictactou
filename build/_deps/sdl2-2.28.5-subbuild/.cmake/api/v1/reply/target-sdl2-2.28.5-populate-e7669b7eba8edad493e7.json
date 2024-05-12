@@ -1,0 +1,141 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"ExternalProject_Add"
+		],
+		"files" : 
+		[
+			"/usr/local/share/cmake-3.28/Modules/ExternalProject.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 4201,
+				"parent" : 1
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "ExternalProjectTargets/sdl2-2.28.5-populate"
+	},
+	"id" : "sdl2-2.28.5-populate::@6890427a1f51a3e7e1df",
+	"name" : "sdl2-2.28.5-populate",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "CMakeFiles/sdl2-2.28.5-populate",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "CMakeFiles/sdl2-2.28.5-populate.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "CMakeFiles/sdl2-2.28.5-populate-complete.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "sdl2-2.28.5-populate-prefix/src/sdl2-2.28.5-populate-stamp/sdl2-2.28.5-populate-build.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "sdl2-2.28.5-populate-prefix/src/sdl2-2.28.5-populate-stamp/sdl2-2.28.5-populate-configure.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "sdl2-2.28.5-populate-prefix/src/sdl2-2.28.5-populate-stamp/sdl2-2.28.5-populate-download.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "sdl2-2.28.5-populate-prefix/src/sdl2-2.28.5-populate-stamp/sdl2-2.28.5-populate-install.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "sdl2-2.28.5-populate-prefix/src/sdl2-2.28.5-populate-stamp/sdl2-2.28.5-populate-mkdir.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "sdl2-2.28.5-populate-prefix/src/sdl2-2.28.5-populate-stamp/sdl2-2.28.5-populate-patch.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "sdl2-2.28.5-populate-prefix/src/sdl2-2.28.5-populate-stamp/sdl2-2.28.5-populate-test.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "sdl2-2.28.5-populate-prefix/src/sdl2-2.28.5-populate-stamp/sdl2-2.28.5-populate-update.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

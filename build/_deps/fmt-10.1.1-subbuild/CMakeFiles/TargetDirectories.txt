@@ -1,0 +1,3 @@
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/CMakeFiles/fmt-10.1.1-populate.dir
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/CMakeFiles/edit_cache.dir
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/CMakeFiles/rebuild_cache.dir

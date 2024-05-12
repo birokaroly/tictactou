@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/kari/tictactou_piszkozat/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/tictactou.dir/main.cpp.o -c /home/kari/tictactou_piszkozat/main.cpp",
+  "file": "/home/kari/tictactou_piszkozat/main.cpp",
+  "output": "CMakeFiles/tictactou.dir/main.cpp.o"
+},
+{
+  "directory": "/home/kari/tictactou_piszkozat/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/tictactou.dir/App.cpp.o -c /home/kari/tictactou_piszkozat/App.cpp",
+  "file": "/home/kari/tictactou_piszkozat/App.cpp",
+  "output": "CMakeFiles/tictactou.dir/App.cpp.o"
+},
+{
+  "directory": "/home/kari/tictactou_piszkozat/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/tictactou.dir/Game1.cpp.o -c /home/kari/tictactou_piszkozat/Game1.cpp",
+  "file": "/home/kari/tictactou_piszkozat/Game1.cpp",
+  "output": "CMakeFiles/tictactou.dir/Game1.cpp.o"
+},
+{
+  "directory": "/home/kari/tictactou_piszkozat/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/tictactou.dir/Util.cpp.o -c /home/kari/tictactou_piszkozat/Util.cpp",
+  "file": "/home/kari/tictactou_piszkozat/Util.cpp",
+  "output": "CMakeFiles/tictactou.dir/Util.cpp.o"
+},
+{
+  "directory": "/home/kari/tictactou_piszkozat/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/tictactou.dir/Board.cpp.o -c /home/kari/tictactou_piszkozat/Board.cpp",
+  "file": "/home/kari/tictactou_piszkozat/Board.cpp",
+  "output": "CMakeFiles/tictactou.dir/Board.cpp.o"
+}
+]

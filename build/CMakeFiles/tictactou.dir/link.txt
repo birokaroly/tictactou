@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/tictactou.dir/main.cpp.o CMakeFiles/tictactou.dir/App.cpp.o CMakeFiles/tictactou.dir/Game1.cpp.o CMakeFiles/tictactou.dir/Util.cpp.o CMakeFiles/tictactou.dir/Board.cpp.o -o tictactou  -lSDL2 

@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/local/bin/cmake;-P;/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/download-sdl_mixer-2.28.5-populate.cmake;COMMAND;/usr/local/bin/cmake;-P;/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/verify-sdl_mixer-2.28.5-populate.cmake;COMMAND;/usr/local/bin/cmake;-P;/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-subbuild/sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/extract-sdl_mixer-2.28.5-populate.cmake
+source_dir=/home/kari/sdl/build/_deps/sdl_mixer-2.28.5-src
+work_dir=/home/kari/sdl/build/_deps
+url(s)=https://github.com/libsdl-org/SDL_mixer/archive/refs/tags/release-2.6.3.tar.gz
+hash=SHA256=91dd065e9e63f499e5317350b110184b0ba96bc5f63c39b3a9939a136c40c035
+no_extract=
+

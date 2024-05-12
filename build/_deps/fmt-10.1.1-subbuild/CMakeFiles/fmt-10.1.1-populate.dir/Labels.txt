@@ -1,0 +1,14 @@
+# Target labels
+ fmt-10.1.1-populate
+# Source files and their labels
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/CMakeFiles/fmt-10.1.1-populate
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/CMakeFiles/fmt-10.1.1-populate.rule
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/CMakeFiles/fmt-10.1.1-populate-complete.rule
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-build.rule
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-configure.rule
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-download.rule
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-install.rule
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-mkdir.rule
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-patch.rule
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-test.rule
+/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-update.rule

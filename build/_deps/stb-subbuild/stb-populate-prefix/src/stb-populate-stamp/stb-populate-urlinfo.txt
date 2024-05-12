@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/local/bin/cmake;-P;/home/kari/sdl/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/download-stb-populate.cmake;COMMAND;/usr/local/bin/cmake;-P;/home/kari/sdl/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/verify-stb-populate.cmake;COMMAND;/usr/local/bin/cmake;-P;/home/kari/sdl/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/extract-stb-populate.cmake
+source_dir=/home/kari/sdl/build/_deps/stb-src
+work_dir=/home/kari/sdl/build/_deps
+url(s)=https://github.com/nothings/stb/archive/0bc88af4de5fb022db643c2d8e549a0927749354.tar.gz
+hash=SHA256=0e05332f08c3c45405fda367ecd290558f3d8493bc9f536cc53e0e00ebe98898
+no_extract=
+

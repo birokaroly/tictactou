@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+997d1e47bb5a9945966667955ae43852 CMakeFiles/sdl_mixer-2.28.5-populate
+ad05c6d46932c5c775ce13d9bdb0ceeb CMakeFiles/sdl_mixer-2.28.5-populate-complete
+9f575aa8912069da03b59bb32fcf0b1e sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-build
+0ffe98efc0225425ae34dcab34cfd88b sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-configure
+47bf34dc4c4d89909169d20c64612e1f sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-download
+ed9285da4d1b2552e913ba139ebcc93d sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-install
+688b530ccd0d8ec0eb9ca10a82870943 sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-mkdir
+66cb7a3c0918c2318972b0d3e1542b77 sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-patch
+ed138715f1f896b38c95cb65fb8f9f4f sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-test
+eb6da44e887656946b99e0d4672657bd sdl_mixer-2.28.5-populate-prefix/src/sdl_mixer-2.28.5-populate-stamp/sdl_mixer-2.28.5-populate-update

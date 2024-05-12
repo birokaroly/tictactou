@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/CMakeFiles/fmt-10.1.1-populate"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/CMakeFiles/fmt-10.1.1-populate.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/CMakeFiles/fmt-10.1.1-populate-complete.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-build.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-configure.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-download.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-install.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-patch.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-test.rule"
+		},
+		{
+			"file" : "/home/kari/sdl/build/_deps/fmt-10.1.1-subbuild/fmt-10.1.1-populate-prefix/src/fmt-10.1.1-populate-stamp/fmt-10.1.1-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"fmt-10.1.1-populate"
+		],
+		"name" : "fmt-10.1.1-populate"
+	}
+}

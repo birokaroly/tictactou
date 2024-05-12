@@ -1,0 +1,14 @@
+# Target labels
+ stb-populate
+# Source files and their labels
+/home/kari/sdl/build/_deps/stb-subbuild/CMakeFiles/stb-populate
+/home/kari/sdl/build/_deps/stb-subbuild/CMakeFiles/stb-populate.rule
+/home/kari/sdl/build/_deps/stb-subbuild/CMakeFiles/stb-populate-complete.rule
+/home/kari/sdl/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-build.rule
+/home/kari/sdl/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-configure.rule
+/home/kari/sdl/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-download.rule
+/home/kari/sdl/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-install.rule
+/home/kari/sdl/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-mkdir.rule
+/home/kari/sdl/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-patch.rule
+/home/kari/sdl/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-test.rule
+/home/kari/sdl/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-update.rule
