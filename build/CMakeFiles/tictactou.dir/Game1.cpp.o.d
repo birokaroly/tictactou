@@ -214,6 +214,7 @@ CMakeFiles/tictactou.dir/Game1.cpp.o: \
  /usr/include/SDL2/SDL_timer.h /usr/include/SDL2/SDL_version.h \
  /usr/include/SDL2/SDL_locale.h /usr/include/SDL2/SDL_misc.h \
  /home/kari/tictactou_piszkozat/Board.h \
+ /home/kari/tictactou_piszkozat/minimax.h \
  /home/kari/tictactou_piszkozat/App.h /usr/include/c++/11/ctime \
  /usr/include/time.h /usr/include/x86_64-linux-gnu/bits/time.h \
  /usr/include/x86_64-linux-gnu/bits/timex.h \

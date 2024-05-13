@@ -289,4 +289,5 @@ CMakeFiles/tictactou.dir/Board.cpp.o: \
  /home/kari/tictactou_piszkozat/App.h \
  /home/kari/tictactou_piszkozat/Game1.h \
  /home/kari/tictactou_piszkozat/Board.h \
+ /home/kari/tictactou_piszkozat/minimax.h \
  /home/kari/tictactou_piszkozat/Util.h

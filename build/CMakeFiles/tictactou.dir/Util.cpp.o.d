@@ -215,4 +215,5 @@ CMakeFiles/tictactou.dir/Util.cpp.o: \
  /usr/include/SDL2/SDL_timer.h /usr/include/SDL2/SDL_version.h \
  /usr/include/SDL2/SDL_locale.h /usr/include/SDL2/SDL_misc.h \
  /home/kari/tictactou_piszkozat/Game1.h \
- /home/kari/tictactou_piszkozat/Board.h
+ /home/kari/tictactou_piszkozat/Board.h \
+ /home/kari/tictactou_piszkozat/minimax.h
