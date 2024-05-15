@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/tictactou.dir/Util.cpp.o.d"
   "CMakeFiles/tictactou.dir/main.cpp.o"
   "CMakeFiles/tictactou.dir/main.cpp.o.d"
+  "CMakeFiles/tictactou.dir/minimax.cpp.o"
+  "CMakeFiles/tictactou.dir/minimax.cpp.o.d"
   "tictactou"
   "tictactou.pdb"
 )

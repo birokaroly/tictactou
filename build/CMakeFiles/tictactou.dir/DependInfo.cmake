@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/kari/tictactou_piszkozat/Game1.cpp" "CMakeFiles/tictactou.dir/Game1.cpp.o" "gcc" "CMakeFiles/tictactou.dir/Game1.cpp.o.d"
   "/home/kari/tictactou_piszkozat/Util.cpp" "CMakeFiles/tictactou.dir/Util.cpp.o" "gcc" "CMakeFiles/tictactou.dir/Util.cpp.o.d"
   "/home/kari/tictactou_piszkozat/main.cpp" "CMakeFiles/tictactou.dir/main.cpp.o" "gcc" "CMakeFiles/tictactou.dir/main.cpp.o.d"
+  "/home/kari/tictactou_piszkozat/minimax.cpp" "CMakeFiles/tictactou.dir/minimax.cpp.o" "gcc" "CMakeFiles/tictactou.dir/minimax.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

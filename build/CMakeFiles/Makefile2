@@ -837,12 +837,12 @@ CMakeFiles/ContinuousSubmit.dir/clean:
 CMakeFiles/tictactou.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/tictactou.dir/build.make CMakeFiles/tictactou.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/tictactou.dir/build.make CMakeFiles/tictactou.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kari/tictactou_piszkozat/build/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target tictactou"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kari/tictactou_piszkozat/build/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target tictactou"
 .PHONY : CMakeFiles/tictactou.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tictactou.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kari/tictactou_piszkozat/build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kari/tictactou_piszkozat/build/CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/tictactou.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/kari/tictactou_piszkozat/build/CMakeFiles 0
 .PHONY : CMakeFiles/tictactou.dir/rule

@@ -643,6 +643,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/tictactou.dir/build.make CMakeFiles/tictactou.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+minimax.o: minimax.cpp.o
+.PHONY : minimax.o
+
+# target to build an object file
+minimax.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tictactou.dir/build.make CMakeFiles/tictactou.dir/minimax.cpp.o
+.PHONY : minimax.cpp.o
+
+minimax.i: minimax.cpp.i
+.PHONY : minimax.i
+
+# target to preprocess a source file
+minimax.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tictactou.dir/build.make CMakeFiles/tictactou.dir/minimax.cpp.i
+.PHONY : minimax.cpp.i
+
+minimax.s: minimax.cpp.s
+.PHONY : minimax.s
+
+# target to generate assembly for a file
+minimax.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tictactou.dir/build.make CMakeFiles/tictactou.dir/minimax.cpp.s
+.PHONY : minimax.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -698,6 +722,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... minimax.o"
+	@echo "... minimax.i"
+	@echo "... minimax.s"
 .PHONY : help
 
 

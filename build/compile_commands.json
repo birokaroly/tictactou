@@ -28,5 +28,11 @@
   "command": "/usr/bin/g++   -g -o CMakeFiles/tictactou.dir/Board.cpp.o -c /home/kari/tictactou_piszkozat/Board.cpp",
   "file": "/home/kari/tictactou_piszkozat/Board.cpp",
   "output": "CMakeFiles/tictactou.dir/Board.cpp.o"
+},
+{
+  "directory": "/home/kari/tictactou_piszkozat/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/tictactou.dir/minimax.cpp.o -c /home/kari/tictactou_piszkozat/minimax.cpp",
+  "file": "/home/kari/tictactou_piszkozat/minimax.cpp",
+  "output": "CMakeFiles/tictactou.dir/minimax.cpp.o"
 }
 ]
